@@ -1,0 +1,133 @@
+body{
+	background-color: #eaebea;
+}
+
+.container{
+  	background-repeat: repeat;
+
+}
+
+.o{
+	color: orange;
+	font-weight: bold;
+	white-space: nowrap;
+
+}
+
+p{
+  font-size: 13px;
+  font-family: "Montserrat";
+  color: rgb( 62, 67, 71 );
+  text-align: left;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+
+.texto{
+  font-size: 13px;
+  font-family: "Montserrat";
+  color: rgb( 62, 67, 71 );
+  text-align: left;
+  margin-bottom: 0;
+  white-space: nowrap;
+}
+
+footer{
+	position: relative;
+	background-color: #343a40;
+	color:#FFFFFF;
+	text-align: left;
+	margin: auto;
+	padding: 3em;
+}
+
+
+h2{
+	font-weight: bold;
+	font-size:30px;
+
+}
+
+h1{
+	font-size: 45px;
+	text-align: left;
+}
+
+h3{
+	font-size: 20px;
+	margin-bottom: -20px;
+
+}
+
+li{
+	border-bottom: 2px;
+	text-align: left;
+	list-style: none;
+	padding-left: 0px;
+}
+
+ul{
+	padding-left: 0px;
+	margin-top: -20px;
+}
+
+.form-group{
+	margin-bottom: 0rem;
+	padding: 6px;
+	opacity: 0.7;
+}
+
+
+.carousel-inner{
+	width: 90%;
+	margin-top: -60px;
+	opacity: 0.6;
+
+}
+
+.tel{
+	text-align: right !important;
+	font-size: 13px;
+	font-family: "Montserrat";
+	color: rgb( 62, 67, 71 );
+}
+
+.btn{
+	background-color:orange;
+	border-color:orange;
+	width: 140px;
+	color:#fff;
+	margin-left: 30px;
+	border-radius: 25px;
+}
+
+img{
+	margin-left:-30px;
+}
+
+hr{
+	height:1px; 
+}
+
+h3-laranja{
+	background-color: orange;
+	color: #e0ebeb;
+	font-size:26px;
+}
+
+.verticalLine {
+  border-left: thick solid #ff0000;
+}
+
+.vertical-line{
+      width: 1px;
+      background-color: black;
+      height: 100%;
+      float: right;
+      opacity: 0.1;
+}
+
+p-white{
+	color:white;
+}
+
